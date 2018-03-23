@@ -1,2 +1,2 @@
 # CSS-JS-Clock
-Regular analog clock made with HTML, CSS and JS.
+Regular analog clock made with HTML, CSS and JS, i am just starting now... It wil be over these days...
